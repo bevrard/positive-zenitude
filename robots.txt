@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://positive-zenitude.be/sitemap.xml
